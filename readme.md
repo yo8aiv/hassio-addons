@@ -31,20 +31,20 @@ freedmr for HomeAssistant
 
 [:books: freedmr add-on documentation][addon-doc-freedmr]
 
-### &#10003; [P2Pool][addon-p2pool]
+### &#10003; [freedmr][addon-freedmr]
 
-![Latest Version][p2pool-version-shield]
-![Supports armhf Architecture][p2pool-armhf-shield]
-![Supports armv7 Architecture][p2pool-armv7-shield]
-![Supports aarch64 Architecture][p2pool-aarch64-shield]
-![Supports amd64 Architecture][p2pool-amd64-shield]
-![Supports i386 Architecture][p2pool-i386-shield]
+![Latest Version][freedmr-version-shield]
+![Supports armhf Architecture][freedmr-armhf-shield]
+![Supports armv7 Architecture][freedmr-armv7-shield]
+![Supports aarch64 Architecture][freedmr-aarch64-shield]
+![Supports amd64 Architecture][freedmr-amd64-shield]
+![Supports i386 Architecture][freedmr-i386-shield]
 
-P2pool pour HomeAssistant
+freedmr pour HomeAssistant
 
-[![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.][add-addon-shield]][add-addon-p2pool]
+[![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.][add-addon-shield]][add-addon-freedmr]
 
-[:books: P2Pool add-on documentation][addon-doc-p2pool]
+[:books: freedmr add-on documentation][addon-doc-freedmr]
 
 ### &#10003; [Rustdesk-Server][addon-rustdesk-server]
 
@@ -55,46 +55,9 @@ P2pool pour HomeAssistant
 ![Supports amd64 Architecture][rustdesk-server-amd64-shield]
 ![Supports i386 Architecture][rustdesk-server-i386-shield]
 
-Rustdesk-Server pour HomeAssistant
-
-[![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.][add-addon-shield]][add-addon-rustdesk-server]
-
-[:books: Rustdesk-Server add-on documentation][addon-doc-rustdesk-server]
-
-### &#10003; [Sharry][addon-sharry]
-
-![Latest Version][sharry-version-shield]
-![Supports armhf Architecture][sharry-armhf-shield]
-![Supports armv7 Architecture][sharry-armv7-shield]
-![Supports aarch64 Architecture][sharry-aarch64-shield]
-![Supports amd64 Architecture][sharry-amd64-shield]
-![Supports i386 Architecture][sharry-i386-shield]
-
-Sharry pour Home Assistant
-
-[![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.][add-addon-shield]][add-addon-sharry]
-
-[:books: Sharry add-on documentation][addon-doc-sharry]
-
-### &#10003; [Sharry-dependency-less][addon-sharry-dependency-less]
-
-![Latest Version][sharry-dependency-less-version-shield]
-![Supports armhf Architecture][sharry-dependency-less-armhf-shield]
-![Supports armv7 Architecture][sharry-dependency-less-armv7-shield]
-![Supports aarch64 Architecture][sharry-dependency-less-aarch64-shield]
-![Supports amd64 Architecture][sharry-dependency-less-amd64-shield]
-![Supports i386 Architecture][sharry-dependency-less-i386-shield]
-
-Sharry pour Home Assistant sans dependances a Mariadb
-
-[![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.][add-addon-shield]][add-addon-sharry-dependency-less]
-
-[:books: Sharry-dependency-less add-on documentation][addon-doc-sharry-dependency-less]
-
 ## Support
 
-Je ne suis pas dévellopeur, n'ai aucune formation de code, je suis simplement autodidact.
-Si vous avez une question concernant HA et ses add-ons vous pouvez consulter:
+no yet to be edited ... :
 
 - [Le Forum communautaire francophone][HACF] de HomeAssistant
 - [Le Forum communautaire anglophone][forum] de HomeAssistant.
